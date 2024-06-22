@@ -32,4 +32,3 @@ const mkdirLecture = (title, indices, extension) => {
 }
 
 mkdirLecture(lecture, indices, 'py');
-
